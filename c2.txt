@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 artificial intellehence ml
+=======
+navya sree
+>>>>>>> yy
